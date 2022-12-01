@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @sagar-sethi
-#- 👀 I’m interested in 
-- 🌱 I am a doctoral student at the Astronomical Observatory of the Jagiellonian University Krakow.
+<!---
+- 👀 I’m interested in
+--->
+ - 🌱 I am a doctoral student at the Astronomical Observatory of the Jagiellonian University Krakow.
 - 📫 How to reach me sagar.sethi.526@gmail.com
 
 <!---
